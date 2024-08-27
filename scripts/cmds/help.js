@@ -69,6 +69,11 @@ removebg: {
     description: "deletes bot messages",
     guide: "reply to bot message and type -unsend"
   },
+  anime: {
+    name: "anime",
+    description: "see anime info",
+    guide: "-
+  },
 };
 
 module.exports = {
